@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Aplicación Pokedex, consumiendo de los servicios BackEnd creados en [DGraph](https://dgraph.io). 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto creado para investigar el uso del los servicios backend ofrecidos por DGraph, creando un back mu rápido que utilizamos GraphQL, para almacenar en bd, nuestro modelo de datos.
+
+![Imagen de la App](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+
+
 
 ## Available Scripts
 
