@@ -2,8 +2,7 @@
 
 Proyecto creado para investigar el uso del los servicios backend ofrecidos por DGraph, creando un back mu rápido que utilizamos GraphQL, para almacenar en bd, nuestro modelo de datos.
 
-![Imagen de la App](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
-
+![Imagen de la App](https://github.com/VictorHugoAguilar/pokedex_react/blob/main/src/assets/img/PreviewAppWeb.png?raw=true)
 
 
 ## Available Scripts
