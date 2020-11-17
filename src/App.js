@@ -5,8 +5,8 @@ import Typography from '@material-ui/core/Typography'
 import CircularProgress from '@material-ui/core/CircularProgress'
 
 import { Filters } from './Filters'
-import { PokemonCardsList } from './PokemonCardsList'
-import pokemonLogo from './pokemon-logo.png'
+import { PokemonCardsList } from './Components/PokemonCardsList'
+import pokemonLogo from './assets/img/pokemon-logo.png'
 import { fetchPokemon } from './graphQLUtils'
 
 const useStyles = makeStyles((theme) => ({
